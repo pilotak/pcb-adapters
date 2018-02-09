@@ -16,8 +16,11 @@ When you manufature PCB in China, you usually have a space left over so why not 
 ## SOIC18/SOIC18L adapter
 ![PCB top view](./SOIC18_SO18L-DIP/SOIC18_SO18L-DIP_Combined_Top.png) ![PCB bottom view](./SOIC18_SO18L-DIP/SOIC18_SO18L-DIP_Combined_Bottom.png)
 
-## SOT-353/SOT-363 adapter
+## SOT363 adapter
 ![PCB top view](./SOT363-DIP/SOT363-DIP_Combined_Top.png) ![PCB bottom view](./SOT363-DIP/SOT363-DIP_Combined_Bottom.png)
+
+## SOT23-6 adapter
+![PCB top view](./SOT23_6-DIP/SOT23_6-DIP_Combined_Top.png) ![PCB bottom view](./SOT23_6-DIP/SOT23_6-DIP_Combined_Bottom.png)
 
 ## RJ11 adapter
 ![PCB top view](./RJ11_DIP/RJ11_DIP_Combined_Top.png) ![PCB bottom view](./RJ11_DIP/RJ11_DIP_Combined_Bottom.png)
